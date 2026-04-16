@@ -1,0 +1,85 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Product Management Framework",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/CanvaSELogo.svg",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373"
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:support@thoughtlabs.co.nz"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://dashboard.example.com"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "Start"
+        ]
+      },
+      {
+        "group": "Frameworks",
+        "pages": [
+          "frameworks/FRAMEWORK_SUMMARY",
+          "frameworks/prioritization",
+          "frameworks/product-lifecycle",
+          "frameworks/discovery",
+          "frameworks/metrics"
+        ]
+      },
+      {
+        "group": "Processes",
+        "pages": [
+          "processes/quarterly-roadmap-planning",
+          "processes/monthly-customer-research",
+          "processes/weekly-product-review"
+        ]
+      },
+      {
+        "group": "Templates",
+        "pages": [
+          "templates/customer-interview-guide",
+          "templates/prd-template",
+          "templates/user-story-template",
+          "templates/roadmap-template"
+        ]
+      },
+      {
+        "group": "Research",
+        "pages": [
+          "research/CPO_AI_Replacement_Feasibility_Analysis",
+          "research/PM_Capability_Model_RASCI_Matrix",
+          "research/PM_Lifecycle_System_vs_Document_Analysis",
+          "research/Aha_io_Prototype_Product_Lifecycle_Automation",
+          "research/Expanded_MCP_Gap_Analysis_Server_Comparison"
+        ]
+      },
+      {
+        "group": "Tech Reports",
+        "pages": [
+          "techreports/tech-monitor-2026-04-09",
+          "techreports/tech-monitor-2026-04-14",
+          "techreports/tech-monitor-2026-04-15",
+          "techreports/tech-monitor-2026-04-17"
+        ]
+      }
+    ]
+  },
+  "footerSocials": {
+    "github": "https://github.com/thoughtlabs-nz",
+    "linkedin": "https://www.linkedin.com/thoughtlabs"
+  }
+}
