@@ -23,7 +23,7 @@ jobs:
           node-version: '22'  # or your preferred version
       
       - name: Install Mint
-        run: npm install -g @mint-lang/mint
+        run: npm install -g mint
      
       - name: Validate Documents
         run: mint validate      
