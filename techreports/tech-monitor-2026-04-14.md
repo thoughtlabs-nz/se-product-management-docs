@@ -5,7 +5,7 @@
 ### Major Model Releases
 
 - **OpenAI GPT-5.4**: Released March 2026 with native computer-use capabilities, first general-purpose model with state-of-the-art computer operation. Supports 1M tokens context, 83% win rate on GDPval benchmark.
-- **Google Gemma 4**: Released April 2, 2026 - most capable open models to date under Apache 2.0 license. Four sizes (E2B, E4B, 26B MoE, 31B Dense). 31B ranks #3 open model globally.
+- **Google Gemma 4**: Released April 2, 2026 - most capable open models to date under Apache 2.0 licence. Four sizes (E2B, E4B, 26B MoE, 31B Dense). 31B ranks #3 open model globally.
 - **Microsoft MAI Models**: Three new foundational models (Transcribe-1, Voice-1, Image-2) launched April 2026, marking direct competition with OpenAI and Google. Pricing: $0.36/hour transcription, $22/M chars voice, $5/M tokens image input.
 - **Anthropic Mythos**: Preview released April 2026 as part of Project Glasswing cybersecurity initiative. Partner organizations include Amazon, Apple, Broadcom, Cisco.
 

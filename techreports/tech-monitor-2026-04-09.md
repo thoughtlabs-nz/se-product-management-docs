@@ -6,7 +6,7 @@
 Researchers at Tufts University have developed a hybrid AI approach that could reduce energy consumption by 100x while improving accuracy. This "neuro-symbolic AI" combines neural networks with structured reasoning, addressing sustainability concerns as AI now consumes over 10% of U.S. electricity.
 
 ### Google's Gemma 4 Released
-Google has launched Gemma 4, their most capable open models to date, available under Apache 2.0 license. The 31B model ranks #3 on Arena AI's open model leaderboard, outcompeting models 20x its size.
+Google has launched Gemma 4, their most capable open models to date, available under Apache 2.0 licence. The 31B model ranks #3 on Arena AI's open model leaderboard, outcompeting models 20x its size.
 
 ### Anthropic's Mythos Preview
 Anthropic released a preview of its new frontier model "Mythos" as part of Project Glasswing, a cybersecurity initiative with 12 partner organizations including Amazon, Apple, Microsoft, and Cisco.

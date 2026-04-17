@@ -135,7 +135,7 @@ AI agents and agentic systems represent a fundamental shift from passive AI tool
 ### Strategic Fit with Disruption Goals:
 
 #### ✅ Automates Manual Human Endeavor at Scale
-**STRONG ALIGNMENT** - Core value proposition. Transforms knowledge workers into supervisors of digital labor.
+**STRONG ALIGNMENT** - Core value proposition. Transforms knowledge workers into supervisors of digital labour.
 
 #### ✅ Displaces Low Value-Add Intermediaries
 **MODERATE ALIGNMENT** - Eliminates middle steps in business processes, reduces administrative overhead, streamlines operations.

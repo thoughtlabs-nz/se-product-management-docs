@@ -146,7 +146,7 @@ Example goals:
 - **Ask open-ended questions** - Start with "How", "Why", "Tell me about"
 - **Dig deeper** - Ask "Why?" five times to get to root causes
 - **Stay curious** - Follow interesting threads even if off-script
-- **Focus on behavior** - Ask what they did, not what they think
+- **Focus on behaviour** - Ask what they did, not what they think
 - **Take notes** - Capture exact words and phrases
 - **Observe non-verbal cues** - Tone, hesitation, excitement
 
@@ -246,7 +246,7 @@ Include:
 
 **Workflow:**
 - Walk me through your [morning/weekly] routine
-- How do you prioritize your work?
+- How do you prioritise your work?
 - What tasks take up most of your time?
 - What could you accomplish if you had more time?
 

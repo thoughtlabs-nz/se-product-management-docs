@@ -3,7 +3,7 @@
 ## AI & Machine Learning
 
 ### OpenAI Launches GPT-5.4-Cyber
-OpenAI unveiled GPT-5.4-Cyber, a specialized variant fine-tuned for defensive cybersecurity workflows. Features include binary reverse engineering, vulnerability scanning, and malware analysis with fewer restrictions for vetted security professionals. The company is scaling its Trusted Access for Cyber (TAC) program and classified the model as "High" cyber capability under its Preparedness Framework.
+OpenAI unveiled GPT-5.4-Cyber, a specialized variant fine-tuned for defensive cybersecurity workflows. Features include binary reverse engineering, vulnerability scanning, and malware analysis with fewer restrictions for vetted security professionals. The company is scaling its Trusted Access for Cyber (TAC) programme and classified the model as "High" cyber capability under its Preparedness Framework.
 
 **Source:** [Reuters](https://www.reuters.com/technology/openai-unveils-gpt-54-cyber-week-after-rivals-announcement-ai-model-2026-04-14/), [Cybersecurity News](https://cybersecuritynews.com/openai-launches-gpt-5-4/)
 

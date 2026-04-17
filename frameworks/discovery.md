@@ -1,13 +1,13 @@
 ---
 title: Product Discovery Framework
-description: Identify, validate, and prioritize product opportunities using JTBD and user research
+description: Identify, validate, and prioritise product opportunities using JTBD and user research
 ---
 
 # Product Discovery Framework
 
 ## Overview
 
-Product discovery is how we identify, validate, and prioritize product opportunities. This framework ensures we build the right things for our customers in broker services and wealth management.
+Product discovery is how we identify, validate, and prioritise product opportunities. This framework ensures we build the right things for our customers in broker services and wealth management.
 
 ## Discovery Process
 

@@ -7,7 +7,7 @@ description: Strategic decision-making framework using RICE scoring and other me
 
 ## Overview
 
-This framework helps us make strategic decisions about what to build, when to build it, and what to defer. We use multiple prioritization methods depending on the context.
+This framework helps us make strategic decisions about what to build, when to build it, and what to defer. We use multiple prioritisation methods depending on the context.
 
 ## Primary Method: RICE Scoring
 
@@ -40,7 +40,7 @@ Examples (Wealth Management):
 - Automated portfolio rebalancing: 3 (massive time savings)
 - Enhanced reporting dashboard: 2 (significant improvement)
 - Customizable email templates: 1 (moderate improvement)
-- UI color scheme update: 0.5 (low impact)
+- UI colour scheme update: 0.5 (low impact)
 
 ### Confidence
 **How confident are we in our Reach and Impact estimates?**
@@ -98,7 +98,7 @@ RICE = (500 × 3 × 0.8) / 2 = 600
 
 ### Value vs. Effort Matrix
 
-Simple 2×2 matrix for quick prioritization:
+Simple 2×2 matrix for quick prioritisation:
 
 ```
 High Value, Low Effort  → Quick Wins (do first)
@@ -179,7 +179,7 @@ All opportunities go through discovery first (see `/frameworks/discovery.md`)
 Product team scores each opportunity using RICE
 
 ### 3. Review
-Weekly product prioritization session:
+Weekly product prioritisation session:
 - Review new opportunities
 - Re-score existing backlog items
 - Adjust for strategic shifts
@@ -191,14 +191,14 @@ Quarterly roadmap planning:
 - Ensure cross-functional alignment
 
 ### 5. Communication
-Share prioritization decisions:
+Share prioritisation decisions:
 - Publish roadmap to stakeholders
 - Explain rationale for decisions
 - Manage expectations on deferred items
 
 ## OKR Alignment
 
-Ensure prioritization supports company OKRs:
+Ensure prioritisation supports company OKRs:
 
 **Example OKR Framework:**
 ```
@@ -214,12 +214,12 @@ KR3: Achieve 4.5+ satisfaction score from wealth managers
 
 - RICE scoring spreadsheet: `/templates/rice-scoring-template.csv`
 - Value vs Effort matrix: `/templates/value-effort-matrix.md`
-- Prioritization workshop guide: `/templates/prioritization-workshop.md`
+- Prioritization workshop guide: `/templates/prioritisation-workshop.md`
 - Roadmap template: `/templates/roadmap-template.md`
 
 ## Review Cadence
 
 - **Weekly:** Product team reviews and scores new opportunities
-- **Monthly:** Review prioritization decisions with stakeholders
-- **Quarterly:** Major roadmap planning and reprioritization
+- **Monthly:** Review prioritisation decisions with stakeholders
+- **Quarterly:** Major roadmap planning and reprioritisation
 - **Ad-hoc:** Urgent requests or strategic pivots

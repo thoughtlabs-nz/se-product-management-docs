@@ -21,7 +21,7 @@
 **Deliverables**:
 - Research plan documentation (this folder)
 - First technology brief
-- Initial focus area prioritization
+- Initial focus area prioritisation
 
 ---
 
@@ -135,7 +135,7 @@ This timeline is a living document and will be updated based on:
 ### Review Cadence
 - **Weekly**: Progress against current week's goals
 - **Bi-weekly**: Phase progress and milestone tracking
-- **Monthly**: Overall program health and strategic alignment
+- **Monthly**: Overall programme health and strategic alignment
 
 ### Escalation Triggers
 - Falling behind milestones by more than 1 week

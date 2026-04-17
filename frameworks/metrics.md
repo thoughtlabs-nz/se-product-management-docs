@@ -41,7 +41,7 @@ Why: Reflects platform usage, liquidity, and customer engagement
 - Reflects customer value (not just vanity metrics)
 - Measurable and trackable
 - Drives business outcomes
-- Aligns entire organization
+- Aligns entire organisation
 - Actionable (we can influence it)
 
 ## Product Metrics Framework
@@ -121,7 +121,7 @@ How many users will adopt this feature?
 - 40% of clients access mobile app weekly
 
 ### 2. Outcome Metrics
-What impact will it have on user behavior or business?
+What impact will it have on user behaviour or business?
 
 **Examples:**
 - Reduce portfolio review time from 45 min to 15 min (66% reduction)

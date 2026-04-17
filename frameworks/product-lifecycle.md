@@ -263,7 +263,7 @@ Phase 3: General availability (100%)
 - Are we meeting the success metrics defined in the PRD?
 - Is the feature being adopted by target users?
 - What unexpected issues or opportunities emerged?
-- What improvements should we prioritize?
+- What improvements should we prioritise?
 
 **Responsible:** CPO with input from entire product team
 

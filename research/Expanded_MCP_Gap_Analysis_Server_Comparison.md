@@ -367,7 +367,7 @@ However, Improvado is a commercial product with SaaS data routing — product da
 | Mitigation 1 | Review the cedricziel server source code before deployment. It is TypeScript — readable and auditable. |
 | Mitigation 2 | Run dependency vulnerability scanning (npm audit) before each upgrade. |
 | Mitigation 3 | Use the Docker image from GHCR with pinned versions rather than running latest. |
-| Mitigation 4 | The MIT license allows you to patch vulnerabilities independently if upstream is slow to respond. |
+| Mitigation 4 | The MIT licence allows you to patch vulnerabilities independently if upstream is slow to respond. |
 | Residual risk | Low with standard open-source security practices. |
 
 #### R-12: Semantic search produces misleading results

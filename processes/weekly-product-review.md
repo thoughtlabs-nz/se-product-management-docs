@@ -7,7 +7,7 @@ description: Process guide for weekly-product-review
 
 ## Overview
 
-A recurring meeting to review product progress, prioritization, and key decisions. This is the heartbeat of product management.
+A recurring meeting to review product progress, prioritisation, and key decisions. This is the heartbeat of product management.
 
 **Frequency:** Weekly
 
@@ -231,4 +231,4 @@ Team members can suggest improvements:
 - Monthly roadmap planning: `/processes/roadmap-planning.md`
 - Quarterly OKR review: `/processes/okr-review.md`
 - Feature launch checklist: `/templates/launch-checklist.md`
-- Prioritization framework: `/frameworks/prioritization.md`
+- Prioritization framework: `/frameworks/prioritisation.md`

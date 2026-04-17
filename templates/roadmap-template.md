@@ -168,7 +168,7 @@ Theme 2
 
 ### How We Prioritize
 
-We use **RICE scoring** to prioritize features:
+We use **RICE scoring** to prioritise features:
 - **Reach:** Users impacted per quarter
 - **Impact:** 0.25-3 score
 - **Confidence:** Percentage
@@ -176,11 +176,11 @@ We use **RICE scoring** to prioritize features:
 
 Features with RICE > 500 are high priority.
 
-See full framework: `/frameworks/prioritization.md`
+See full framework: `/frameworks/prioritisation.md`
 
 ### Strategic Considerations
 
-Features may be prioritized higher if they:
+Features may be prioritised higher if they:
 - Address regulatory/compliance requirements
 - Solve critical customer pain points
 - Enable competitive differentiation
@@ -319,7 +319,7 @@ Features may be prioritized higher if they:
 ### A. Supporting Documents
 - Product vision document: [Link]
 - OKRs: [Link]
-- Prioritization framework: `/frameworks/prioritization.md`
+- Prioritization framework: `/frameworks/prioritisation.md`
 - Discovery process: `/frameworks/discovery.md`
 
 ### B. Customer Research

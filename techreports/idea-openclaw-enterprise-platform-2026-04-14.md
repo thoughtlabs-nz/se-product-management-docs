@@ -61,9 +61,9 @@ Build an enterprise-ready local AI deployment platform leveraging OpenClaw (210K
 
 ### Target Market
 
-- **Primary:** Enterprises with strict data privacy requirements (finance, healthcare, legal, defense)
+- **Primary:** Enterprises with strict data privacy requirements (finance, healthcare, legal, defence)
 - **Secondary:** Companies seeking to reduce AI operational costs
-- **Tertiary:** Organizations building AI products requiring testing/sandbox environments
+- **Tertiary:** Organisations building AI products requiring testing/sandbox environments
 
 ### Technical Approach
 

@@ -107,7 +107,7 @@ Use template: `/templates/customer-interview-guide.md`
 - Listen 80%, talk 20%
 - Ask open-ended questions
 - Dig deeper with "Why?" 5 times
-- Focus on behavior, not opinions
+- Focus on behaviour, not opinions
 - Capture exact quotes
 - Stay curious, don't pitch
 
@@ -245,7 +245,7 @@ Pick one major area for 10+ interviews and comprehensive study
 - Support ticket respondents
 - Recent feature adopters
 - NPS survey respondents (promoters and detractors)
-- Beta program participants
+- Beta programme participants
 
 ### Outreach Methods
 

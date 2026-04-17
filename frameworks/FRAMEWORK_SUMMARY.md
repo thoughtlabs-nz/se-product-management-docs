@@ -14,7 +14,7 @@ description: Comprehensive overview of product management frameworks for financi
 
 ## Overview
 
-This document provides a comprehensive summary of our Product Management Framework, designed specifically for financial services (broker services and wealth management). The framework ensures we build exceptional products through systematic discovery, prioritization, delivery, and measurement.
+This document provides a comprehensive summary of our Product Management Framework, designed specifically for financial services (broker services and wealth management). The framework ensures we build exceptional products through systematic discovery, prioritisation, delivery, and measurement.
 
 ---
 
@@ -38,7 +38,7 @@ This document provides a comprehensive summary of our Product Management Framewo
 
 ---
 
-#### Prioritization (`/frameworks/prioritization.md`)
+#### Prioritization (`/frameworks/prioritisation.md`)
 **Purpose:** Make strategic decisions about what to build
 
 **Primary Method:** RICE Scoring
@@ -53,7 +53,7 @@ RICE = (Reach × Impact × Confidence) / Effort
 
 **Financial Services Adjustments:**
 - Regulatory priority boost
-- Risk-adjusted prioritization
+- Risk-adjusted prioritisation
 - Client segment weighting (Enterprise 3x, Mid-market 2x, Retail 1x)
 
 ---
@@ -157,7 +157,7 @@ All templates support the frameworks above and ensure consistency:
 
 **Timeline:**
 - Week 1: Data gathering & analysis
-- Week 2: Opportunity prioritization
+- Week 2: Opportunity prioritisation
 - Week 3: Roadmap drafting & alignment
 - Week 4: Finalization & communication
 
@@ -185,7 +185,7 @@ Our framework is tailored for **broker services** and **wealth management** with
 - Financial risk (transaction accuracy, money movement)
 - Operational risk (system stability, disaster recovery)
 - Reputational risk (customer trust, brand impact)
-- Risk-adjusted prioritization
+- Risk-adjusted prioritisation
 
 #### Client Expectations
 - High reliability (99.9%+ uptime SLAs)
@@ -204,7 +204,7 @@ Our framework is tailored for **broker services** and **wealth management** with
    - Define JTBD and validate with users
    - Document in PRD using `/templates/prd-template.md`
 
-2. **Prioritize** (`/frameworks/prioritization.md`)
+2. **Prioritize** (`/frameworks/prioritisation.md`)
    - Score using RICE framework
    - Adjust for financial services considerations
    - Review in weekly product review meeting
@@ -268,7 +268,7 @@ We measure framework effectiveness through:
 
 | Routine | Schedule | Purpose | Status |
 |---------|----------|---------|--------|
-| Weekly Product Review | Every Monday 9am ET | Review metrics, status, prioritization | ✅ Active |
+| Weekly Product Review | Every Monday 9am ET | Review metrics, status, prioritisation | ✅ Active |
 | Monthly Customer Research | 1st of each month 9am ET | Conduct customer interviews and synthesis | ✅ Active |
 
 **Next Scheduled:**
@@ -287,7 +287,7 @@ We measure framework effectiveness through:
 - **Excellence:** Establish and evolve PM frameworks
 
 ### Product Team (Future Hires)
-As the organization scales, consider hiring:
+As the organisation scales, consider hiring:
 
 **Product Manager (IC)**
 - Focus: Execute on specific product areas
@@ -317,7 +317,7 @@ As the organization scales, consider hiring:
 - [ ] Begin weekly product review routine (starting April 20)
 - [ ] Conduct first monthly customer research cycle (May 1)
 - [ ] Create initial product roadmap for Q2/Q3 2026
-- [ ] Identify and prioritize first features to build
+- [ ] Identify and prioritise first features to build
 
 ### Near-term (Q3 2026)
 - [ ] Establish metrics dashboards
@@ -364,7 +364,7 @@ As the organization scales, consider hiring:
 This framework is a living document. We welcome feedback and will iterate based on:
 - Team experience and learnings
 - Product outcomes and success
-- Organizational growth and changes
+- Organisational growth and changes
 - Industry evolution and best practices
 
 **How to suggest improvements:**

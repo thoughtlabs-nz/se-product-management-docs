@@ -163,7 +163,7 @@ This report covers significant technology developments, emerging trends, and dis
 - Amazon deployed its millionth robot
 - DeepFleet AI coordinates entire robot fleets
 - 10% improvement in warehouse travel efficiency
-- **Disruption Potential**: HIGH - displaces manual labor at scale
+- **Disruption Potential**: HIGH - displaces manual labour at scale
 - **Evaluation**: Automation of physical work accelerating beyond expectations
 - **Recommendation**: Track adoption rates in logistics and manufacturing
 

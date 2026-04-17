@@ -58,7 +58,7 @@ Quarterly roadmap planning is our strategic planning cycle where we align on pro
 - Risk assessment
 
 **Meetings:**
-- Product team prioritization workshop (full day)
+- Product team prioritisation workshop (full day)
 - Tech feasibility review (CPO + CTO)
 - Design requirements review (CPO + UX Designer)
 
@@ -306,7 +306,7 @@ Features in discovery, may shift to next quarter
 - Competitive positioning
 
 **Select Customers:**
-- Beta program invitations
+- Beta programme invitations
 - Early access opportunities
 - Feature preview sessions
 
@@ -344,7 +344,7 @@ At the end of each quarter, conduct a roadmap retrospective:
 - What could we improve?
 - Were our estimates accurate?
 - Did we focus on the right things?
-- How effective was our prioritization?
+- How effective was our prioritisation?
 
 **Document learnings:**
 File: `/processes/roadmap-retrospectives/[YYYY-QX]-retrospective.md`
@@ -356,7 +356,7 @@ Incorporate learnings into next quarter's planning process
 
 ## Related Processes
 
-- Prioritization framework: `/frameworks/prioritization.md`
+- Prioritization framework: `/frameworks/prioritisation.md`
 - Product development lifecycle: `/frameworks/product-lifecycle.md`
 - Weekly product review: `/processes/weekly-product-review.md`
 - OKR framework: `/frameworks/metrics.md#okr-framework`
