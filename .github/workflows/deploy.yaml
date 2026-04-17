@@ -18,7 +18,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '24'
       
       - name: Install Mint
         run: npm install -g mint
@@ -75,6 +75,12 @@ jobs:
       deployments: write
     
     steps:
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
       - name: Checkout repository
         uses: actions/checkout@v4
       
