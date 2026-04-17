@@ -29,7 +29,7 @@ product-management/
 ## Getting Started
 
 - For new features, start with the PRD template in `/templates/prd-template.md`
-- For prioritisation, use the RICE scoring framework in `/frameworks/prioritization.md`
+- For prioritisation, use the RICE scoring framework in `/frameworks/prioritisation.md`
 - For customer research, follow the discovery process in `/frameworks/discovery.md`
 - For roadmap planning, see `/frameworks/roadmap-planning.md`
 

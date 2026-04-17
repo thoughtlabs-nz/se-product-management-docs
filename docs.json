@@ -34,7 +34,7 @@
         "group": "Frameworks",
         "pages": [
           "frameworks/FRAMEWORK_SUMMARY",
-          "frameworks/prioritization",
+          "frameworks/prioritisation",
           "frameworks/product-lifecycle",
           "frameworks/discovery",
           "frameworks/metrics"

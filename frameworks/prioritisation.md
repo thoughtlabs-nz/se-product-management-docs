@@ -1,9 +1,9 @@
 ---
-title: Prioritization Framework
+title: Prioritisation Framework
 description: Strategic decision-making framework using RICE scoring and other methods
 ---
 
-# Prioritization Framework
+# Prioritisation Framework
 
 ## Overview
 
@@ -39,7 +39,7 @@ Scale: 0-3 points
 Examples (Wealth Management):
 - Automated portfolio rebalancing: 3 (massive time savings)
 - Enhanced reporting dashboard: 2 (significant improvement)
-- Customizable email templates: 1 (moderate improvement)
+- Customisable email templates: 1 (moderate improvement)
 - UI colour scheme update: 0.5 (low impact)
 
 ### Confidence
@@ -88,7 +88,7 @@ Effort: 2 months
 RICE = (500 × 3 × 0.8) / 2 = 600
 ```
 
-### Prioritization Thresholds
+### Prioritisation Thresholds
 
 - **RICE > 500** - High priority, schedule ASAP
 - **RICE 100-500** - Medium priority, plan for next quarter
@@ -114,7 +114,7 @@ Use when:
 
 ### MoSCoW Method
 
-Categorize features into:
+Categorise features into:
 - **Must Have** - Critical for launch, non-negotiable
 - **Should Have** - Important but not critical
 - **Could Have** - Nice to have if resources permit
@@ -149,7 +149,7 @@ Features required for compliance get automatic priority elevation:
 - **Regulatory best practices** - High priority
 - **Audit requirements** - High priority
 
-### Risk-Adjusted Prioritization
+### Risk-Adjusted prioritisation
 Consider:
 - **Financial risk** - Transaction accuracy, money movement
 - **Operational risk** - System stability, data integrity
@@ -170,7 +170,7 @@ Weight reach by client value:
 Example:
 - Feature reaching 100 enterprise clients = 300 effective reach
 
-## Prioritization Process
+## prioritisation Process
 
 ### 1. Intake
 All opportunities go through discovery first (see `/frameworks/discovery.md`)
@@ -207,14 +207,14 @@ KR1: Reduce portfolio review time by 40%
 KR2: Increase client meetings per week by 25%
 KR3: Achieve 4.5+ satisfaction score from wealth managers
 
-→ Prioritize features that directly impact these KRs
+→ Prioritise features that directly impact these KRs
 ```
 
 ## Tools & Templates
 
 - RICE scoring spreadsheet: `/templates/rice-scoring-template.csv`
 - Value vs Effort matrix: `/templates/value-effort-matrix.md`
-- Prioritization workshop guide: `/templates/prioritisation-workshop.md`
+- Prioritisation workshop guide: `/templates/prioritisation-workshop.md`
 - Roadmap template: `/templates/roadmap-template.md`
 
 ## Review Cadence
