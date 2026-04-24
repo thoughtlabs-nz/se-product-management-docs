@@ -26,9 +26,7 @@
     "groups": [
       {
         "group": "Getting Started",
-        "pages": [
-          "Start"
-        ]
+        "pages": ["Start"]
       },
       {
         "group": "Frameworks",
@@ -78,8 +76,10 @@
       }
     ]
   },
-  "footerSocials": {
-    "github": "https://github.com/thoughtlabs-nz",
-    "linkedin": "https://www.linkedin.com/thoughtlabs"
+  "footer": {
+    "socials": {
+      "github": "https://github.com/thoughtlabs-nz",
+      "linkedin": "https://www.linkedin.com/thoughtlabs"
+    }
   }
 }
